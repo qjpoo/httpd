@@ -1,6 +1,7 @@
-## tyr it
+## Tyr it  Fuck the oldest bitch and say the hardest, play mini httpd !
+
 ```
-docker run --rm --itd -p 8080: 8080 --name httpd qjpoo/httpd
+docker run --rm --itd -p 8080:8080 --name httpd qjpoo/httpd
 ```
 
 
